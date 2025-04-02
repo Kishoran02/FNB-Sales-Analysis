@@ -28,5 +28,9 @@ Geographic Insights
 - **`Optimize Delivery Times`**:Streamline delivery processes to reduce the average delivery time and enhance customer satisfaction.
 - **`Leverage Geographic Data`**:Focus on expanding customer base in high-order cities like Bhiwandi and Bilaspur.
 
+## Dashboard
+![Dashbord (FNB Sales Analysis)](https://github.com/user-attachments/assets/6136782a-a876-45b8-ab82-0c88ef915d9b)
+
+
 ## Conclusion
 This dashboard provides valuable insights into the business performance of FNP. By leveraging these findings, FNP can optimize operations, enhance customer satisfaction, and drive greater revenue growth.
